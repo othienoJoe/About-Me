@@ -1,0 +1,25 @@
+header {
+	background-color: aqua;
+	justify-content: space-between;
+        display: flex;
+	height: 20em;
+}
+header .about {
+	padding-top: 5em;
+	justify-content: 3em space-between;
+	margin-left: 2em;
+}
+header .name {
+	background-color: aquamarine;
+	border: 10px;
+	border-color: aliceblue;
+	border-style: solid;
+	font-style: oblique;
+	font-size: 3em;
+}
+header .img img {
+	margin-right: 1em;
+	margin-top: 1em;
+	border-radius: 10em;
+}
+/*===================================================*/
