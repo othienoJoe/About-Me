@@ -83,3 +83,31 @@ header .img img {
 	font-weight: 550;
 }
 /*===================================================*/
+.reason {
+	background-color: antiquewhite;
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 2em;
+}
+.why {
+	width: 850px;
+	font-size: 20px;
+	box-shadow: 3px 0px 10px blue;
+}
+.reason h2 {
+	text-align: center;
+	font-size: 1.5em;
+}
+.why p {
+	font-weight: 600;
+}
+/*===================================================*/
+.skills {
+	width: 850px;
+	font-size: 20px;
+	box-shadow: 3px 0px 10px blue;
+}
+.skills a {
+	color: blue;
+	font-style: italic;
+}
