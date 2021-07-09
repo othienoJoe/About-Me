@@ -127,6 +127,43 @@ header .img img {
 	font-size: 1.5em;
 }
 /*=================================================*/
+footer {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: aqua;
+}
+.social {
+	margin-top: 1.5em;
+}
+.social a {
+        color: rgb(33, 19, 241);
+	font-size: 1.5em;
+}
+.social2 a img {
+	margin-top: 5px;
+	border-radius: 10em;
+}
+.social2 a {
+	color: rgb(33, 19, 241);
+	font-size: 1.5em;
+}
+.social3 img {
+	margin-top: 5px;
+	border-radius: 10em;
+}
+.social3 a {
+	color: rgb(33, 19, 241);
+	font-size: 1.5em;
+}
+.social4 a {
+	color: rgb(33, 19, 241);
+	font-size: 1.5em;
+}
+.social4 img {
+	margin-top: 5px;
+	border-radius: 10em;
+}
+/*=================================================*/
 .copyright {
 	text-align: center;
 	background-color: aquamarine;
